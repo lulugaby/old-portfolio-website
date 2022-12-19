@@ -5,6 +5,4 @@ Profilio website :
 
   created using HTML and CSS
   
-
-
-<img width="1405" alt="Screen Shot 2022-12-19 at 2 58 31 PM" src="https://user-images.githubusercontent.com/70998946/208543351-9086dc7e-ecec-4751-8634-81d05b746e64.png">
+<img width="1423" alt="Screen Shot 2022-12-19 at 3 02 55 PM" src="https://user-images.githubusercontent.com/70998946/208545214-b39a033b-3526-43cf-9931-c8d427bfa623.png">
